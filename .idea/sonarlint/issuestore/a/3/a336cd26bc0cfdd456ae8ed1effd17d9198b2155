@@ -1,0 +1,91 @@
+
+?
+java:S1659""Declare "btn7" on a separate line.(ÔÅ É8¿¦œ¯ò.
+R
+java:S1874œ"/Remove this use of "vibrate"; it is deprecated.(Øœ±šúÿÿÿÿ8×“¾¯ò.
+R
+java:S1874„"/Remove this use of "vibrate"; it is deprecated.(Øœ±šúÿÿÿÿ8õæ½¯ò.
+R
+java:S1874”"/Remove this use of "vibrate"; it is deprecated.(Øœ±šúÿÿÿÿ8×“¾¯ò.
+b
+java:S1117°"?Rename "firstNumber" which hides the field declared at line 17.(Õ–Óºøÿÿÿÿ8¿¦œ¯ò.
+?
+java:S1659""Declare "btn4" on a separate line.(ÔÅ É8¿¦œ¯ò.
+L
+java:S1659"/Declare "btnActionMultiply" on a separate line.(ÔÅ É8¿¦œ¯ò.
+Q
+java:S1874D"/Remove this use of "vibrate"; it is deprecated.(Øœ±šúÿÿÿÿ8®Ì»¯ò.
+Q
+java:S18744"/Remove this use of "vibrate"; it is deprecated.(Øœ±šúÿÿÿÿ8†ãª¯ò.
+?
+java:S1659""Declare "btn8" on a separate line.(ÔÅ É8¿¦œ¯ò.
+b
+java:S1117¿"?Rename "firstNumber" which hides the field declared at line 17.(Õ–Óºøÿÿÿÿ8¿¦œ¯ò.
+L
+java:S1659"*Declare "btnActionAdd" on a separate line.(Ý°ç›øÿÿÿÿ8¿¦œ¯ò.
+X	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±Ž8¿¦œ¯ò.
+R
+java:S1874Ê"/Remove this use of "vibrate"; it is deprecated.(Øœ±šúÿÿÿÿ8§Ÿ¿¯ò.
+Q
+java:S1874\"/Remove this use of "vibrate"; it is deprecated.(Øœ±šúÿÿÿÿ8¿¶¼¯ò.
+?
+java:S1659""Declare "btn0" on a separate line.(ÔÅ É8¿¦œ¯ò.
+Q
+java:S1874d"/Remove this use of "vibrate"; it is deprecated.(Øœ±šúÿÿÿÿ8ÃÕ¼¯ò.
+J
+java:S1659"-Declare "btnActionDivide" on a separate line.(ÔÅ É8¿¦œ¯ò.
+c
+java:S1117±"@Rename "secondNumber" which hides the field declared at line 17.(†ðîùÿÿÿÿ8õæ½¯ò.
+E
+java:S1659"(Declare "btnDecimal" on a separate line.(ÔÅ É8¿¦œ¯ò.
+Q
+java:S1874<"/Remove this use of "vibrate"; it is deprecated.(Øœ±šúÿÿÿÿ8§»¯ò.
+G
+java:S1659"*Declare "secondNumber" on a separate line.(î…–—8¿¦œ¯ò.
+N
+java:S14812",Remove this unused "pattern" local variable.(Ä¹á„úÿÿÿÿ8ÂáÑ¯ò.
+?
+java:S1659""Declare "btn5" on a separate line.(ÔÅ É8¿¦œ¯ò.
+Q
+java:S1874|"/Remove this use of "vibrate"; it is deprecated.(Øœ±šúÿÿÿÿ8¸¼½¯ò.
+Q
+java:S1874T"/Remove this use of "vibrate"; it is deprecated.(Øœ±šúÿÿÿÿ8Á—¼¯ò.
+R
+java:S1874Œ"/Remove this use of "vibrate"; it is deprecated.(Øœ±šúÿÿÿÿ8õæ½¯ò.
+c
+java:S1117»"@Rename "secondNumber" which hides the field declared at line 17.(†ðîùÿÿÿÿ8õæ½¯ò.
+R
+java:S1874¤"/Remove this use of "vibrate"; it is deprecated.(Øœ±šúÿÿÿÿ8ª±¾¯ò.
+Q
+java:S1874t"/Remove this use of "vibrate"; it is deprecated.(Øœ±šúÿÿÿÿ8ïœ½¯ò.
+Q
+java:S1874L"/Remove this use of "vibrate"; it is deprecated.(Øœ±šúÿÿÿÿ8Á—¼¯ò.
+b
+java:S1117µ"?Rename "firstNumber" which hides the field declared at line 17.(Õ–Óºøÿÿÿÿ8¿¦œ¯ò.
+X	java:S125É"<This block of commented-out lines of code should be removed.(½Àä8õæ½¯ò.
+c
+java:S1117¶"@Rename "secondNumber" which hides the field declared at line 17.(†ðîùÿÿÿÿ8õæ½¯ò.
+R
+java:S1874¬"/Remove this use of "vibrate"; it is deprecated.(Øœ±šúÿÿÿÿ8›æ¾¯ò.
+Q
+java:S1874l"/Remove this use of "vibrate"; it is deprecated.(Øœ±šúÿÿÿÿ8£÷¼¯ò.
+b
+java:S1117º"?Rename "firstNumber" which hides the field declared at line 17.(Õ–Óºøÿÿÿÿ8¿¦œ¯ò.
+c
+java:S1117À"@Rename "secondNumber" which hides the field declared at line 17.(†ðîùÿÿÿÿ8õæ½¯ò.
+?
+java:S1659""Declare "btn3" on a separate line.(ÔÅ É8¿¦œ¯ò.
+?
+java:S1659""Declare "btn9" on a separate line.(ÔÅ É8¿¦œ¯ò.
+H
+java:S1659"&Declare "btnClear" on a separate line.(Ý°ç›øÿÿÿÿ8¿¦œ¯ò.
+?
+java:S1659""Declare "btn2" on a separate line.(ÔÅ É8¿¦œ¯ò.
+?
+java:S1659""Declare "btn6" on a separate line.(ÔÅ É8¿¦œ¯ò.
+R
+java:S1659"0Declare "btnActionSubstract" on a separate line.(Ý°ç›øÿÿÿÿ8¿¦œ¯ò.
+]
+java:S18542";Remove this useless assignment to local variable "pattern".(Ä¹á„úÿÿÿÿ8ÂáÑ¯ò.
+N
+java:S1659",Declare "btnActionEnter" on a separate line.(Ý°ç›øÿÿÿÿ8¿¦œ¯ò.
