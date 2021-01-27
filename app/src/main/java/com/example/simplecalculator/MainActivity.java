@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        getSupportActionBar().hide();
        final Vibrator vibe = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
         btn0 = findViewById(R.id.btn_0);
         btn1 = findViewById(R.id.btn_1);
